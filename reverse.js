@@ -1,2 +1,11 @@
-const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9];
-console.log(numbers);
+const numbers = [1, 2, 3];
+// console.log(numbers);
+numbers.reverse();
+// console.log(numbers);
+//
+//
+///
+const rev_numbers = [];
+for (const num of numbers) {
+  console.log(num);
+}
