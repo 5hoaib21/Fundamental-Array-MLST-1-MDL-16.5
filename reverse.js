@@ -9,3 +9,19 @@ const rev_numbers = [];
 for (const num of numbers) {
   console.log(num);
 }
+const rev_numbers = [];
+for (const num of numbers) {
+  console.log(num);
+}
+const rev_numbers = [];
+for (const num of numbers) {
+  console.log(num);
+}
+const rev_numbers = [];
+for (const num of numbers) {
+  console.log(num);
+}
+const rev_numbers = [];
+for (const num of numbers) {
+  console.log(num);
+}
